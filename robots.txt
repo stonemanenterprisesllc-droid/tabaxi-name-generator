@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tabaxi.clickabletools.com/sitemap.xml
